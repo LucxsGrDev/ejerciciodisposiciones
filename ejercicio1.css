@@ -1,0 +1,9 @@
+.galeria{
+    position: relative;
+    display: flexbox;
+    flex-wrap: wrap;
+}
+
+.imagen-galeria {
+    width: 300px;
+}
